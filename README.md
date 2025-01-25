@@ -10,3 +10,6 @@ Hey there! This is my first project — a **Spotify Clone** made with just **HTM
 I wanted to practice HTML and CSS while learning how to recreate real-world UI designs.  
 
 Thanks for checking it out! 😊  
+
+## 🔗 Live Demo  
+[Spotify Clone Live](https://LatikaMadankar.github.io/Spotify-Clone/)  
