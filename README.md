@@ -11,5 +11,3 @@ I wanted to practice HTML and CSS while learning how to recreate real-world UI d
 
 Thanks for checking it out! 😊  
 
-## 🔗 Live Demo  
-[Spotify Clone Live](https://LatikaMadankar.github.io/Spotify-Clone/)  
